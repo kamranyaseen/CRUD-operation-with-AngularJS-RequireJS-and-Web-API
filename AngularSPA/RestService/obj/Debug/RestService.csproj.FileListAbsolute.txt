@@ -1,0 +1,68 @@
+C:\Users\Shailendra Chauhan\Desktop\AngularSPA-RequireJS\RestService\obj\Debug\MobileService.Migrations.initial.resources
+C:\Users\Shailendra Chauhan\Desktop\AngularSPA-RequireJS\RestService\obj\Debug\RestService.csproj.GenerateResource.Cache
+C:\Users\Shailendra Chauhan\Desktop\AngularSPA-RequireJS\RestService\obj\Debug\MobileService.dll
+C:\Users\Shailendra Chauhan\Desktop\AngularSPA-RequireJS\RestService\bin\MobileService.dll.config
+C:\Users\Shailendra Chauhan\Desktop\AngularSPA-RequireJS\RestService\bin\MobileService.dll
+C:\Users\Shailendra Chauhan\Desktop\AngularSPA-RequireJS\RestService\bin\MobileService.pdb
+C:\Users\Shailendra Chauhan\Desktop\AngularSPA-RequireJS\RestService\bin\EntityFramework.dll
+C:\Users\Shailendra Chauhan\Desktop\AngularSPA-RequireJS\RestService\bin\EntityFramework.SqlServer.dll
+C:\Users\Shailendra Chauhan\Desktop\AngularSPA-RequireJS\RestService\bin\Newtonsoft.Json.dll
+C:\Users\Shailendra Chauhan\Desktop\AngularSPA-RequireJS\RestService\bin\System.Net.Http.Formatting.dll
+C:\Users\Shailendra Chauhan\Desktop\AngularSPA-RequireJS\RestService\bin\System.Web.Http.dll
+C:\Users\Shailendra Chauhan\Desktop\AngularSPA-RequireJS\RestService\bin\System.Web.Http.WebHost.dll
+C:\Users\Shailendra Chauhan\Desktop\AngularSPA-RequireJS\RestService\bin\EntityFramework.xml
+C:\Users\Shailendra Chauhan\Desktop\AngularSPA-RequireJS\RestService\bin\EntityFramework.SqlServer.xml
+C:\Users\Shailendra Chauhan\Desktop\AngularSPA-RequireJS\RestService\bin\Newtonsoft.Json.xml
+C:\Users\Shailendra Chauhan\Desktop\AngularSPA-RequireJS\RestService\bin\System.Net.Http.Formatting.xml
+C:\Users\Shailendra Chauhan\Desktop\AngularSPA-RequireJS\RestService\bin\System.Web.Http.xml
+C:\Users\Shailendra Chauhan\Desktop\AngularSPA-RequireJS\RestService\bin\System.Web.Http.WebHost.xml
+C:\Users\Shailendra Chauhan\Desktop\AngularSPA-RequireJS\RestService\obj\Debug\MobileService.pdb
+C:\Users\Shailendra Chauhan\Desktop\AngularSPA-RequireJS\RestService\bin\System.Web.Cors.dll
+C:\Users\Shailendra Chauhan\Desktop\AngularSPA-RequireJS\RestService\bin\System.Web.Http.Cors.dll
+C:\Users\Shailendra Chauhan\Desktop\AngularSPA-RequireJS\RestService\bin\System.Web.Http.Cors.xml
+C:\Training\DOT NET TRICKS\Dot Net Tricks Events\Seminar\AngularSPA-RequireJS\RestService\bin\MobileService.dll.config
+C:\Training\DOT NET TRICKS\Dot Net Tricks Events\Seminar\AngularSPA-RequireJS\RestService\bin\MobileService.dll
+C:\Training\DOT NET TRICKS\Dot Net Tricks Events\Seminar\AngularSPA-RequireJS\RestService\bin\MobileService.pdb
+C:\Training\DOT NET TRICKS\Dot Net Tricks Events\Seminar\AngularSPA-RequireJS\RestService\bin\EntityFramework.dll
+C:\Training\DOT NET TRICKS\Dot Net Tricks Events\Seminar\AngularSPA-RequireJS\RestService\bin\EntityFramework.SqlServer.dll
+C:\Training\DOT NET TRICKS\Dot Net Tricks Events\Seminar\AngularSPA-RequireJS\RestService\bin\Newtonsoft.Json.dll
+C:\Training\DOT NET TRICKS\Dot Net Tricks Events\Seminar\AngularSPA-RequireJS\RestService\bin\System.Net.Http.Formatting.dll
+C:\Training\DOT NET TRICKS\Dot Net Tricks Events\Seminar\AngularSPA-RequireJS\RestService\bin\System.Web.Cors.dll
+C:\Training\DOT NET TRICKS\Dot Net Tricks Events\Seminar\AngularSPA-RequireJS\RestService\bin\System.Web.Http.Cors.dll
+C:\Training\DOT NET TRICKS\Dot Net Tricks Events\Seminar\AngularSPA-RequireJS\RestService\bin\System.Web.Http.dll
+C:\Training\DOT NET TRICKS\Dot Net Tricks Events\Seminar\AngularSPA-RequireJS\RestService\bin\System.Web.Http.WebHost.dll
+C:\Training\DOT NET TRICKS\Dot Net Tricks Events\Seminar\AngularSPA-RequireJS\RestService\bin\EntityFramework.xml
+C:\Training\DOT NET TRICKS\Dot Net Tricks Events\Seminar\AngularSPA-RequireJS\RestService\bin\EntityFramework.SqlServer.xml
+C:\Training\DOT NET TRICKS\Dot Net Tricks Events\Seminar\AngularSPA-RequireJS\RestService\bin\Newtonsoft.Json.xml
+C:\Training\DOT NET TRICKS\Dot Net Tricks Events\Seminar\AngularSPA-RequireJS\RestService\bin\System.Net.Http.Formatting.xml
+C:\Training\DOT NET TRICKS\Dot Net Tricks Events\Seminar\AngularSPA-RequireJS\RestService\bin\System.Web.Http.xml
+C:\Training\DOT NET TRICKS\Dot Net Tricks Events\Seminar\AngularSPA-RequireJS\RestService\bin\System.Web.Http.Cors.xml
+C:\Training\DOT NET TRICKS\Dot Net Tricks Events\Seminar\AngularSPA-RequireJS\RestService\bin\System.Web.Http.WebHost.xml
+C:\Training\DOT NET TRICKS\Dot Net Tricks Events\Seminar\AngularSPA-RequireJS\RestService\obj\Debug\RestService.csprojResolveAssemblyReference.cache
+C:\Training\DOT NET TRICKS\Dot Net Tricks Events\Seminar\AngularSPA-RequireJS\RestService\obj\Debug\MobileService.Migrations.initial.resources
+C:\Training\DOT NET TRICKS\Dot Net Tricks Events\Seminar\AngularSPA-RequireJS\RestService\obj\Debug\RestService.csproj.GenerateResource.Cache
+C:\Training\DOT NET TRICKS\Dot Net Tricks Events\Seminar\AngularSPA-RequireJS\RestService\obj\Debug\MobileService.dll
+C:\Training\DOT NET TRICKS\Dot Net Tricks Events\Seminar\AngularSPA-RequireJS\RestService\obj\Debug\MobileService.pdb
+C:\Users\kamranyaseen\Desktop\AngularSPA-RequireJS\RestService\bin\MobileService.dll.config
+C:\Users\kamranyaseen\Desktop\AngularSPA-RequireJS\RestService\bin\MobileService.dll
+C:\Users\kamranyaseen\Desktop\AngularSPA-RequireJS\RestService\bin\MobileService.pdb
+C:\Users\kamranyaseen\Desktop\AngularSPA-RequireJS\RestService\bin\EntityFramework.dll
+C:\Users\kamranyaseen\Desktop\AngularSPA-RequireJS\RestService\bin\EntityFramework.SqlServer.dll
+C:\Users\kamranyaseen\Desktop\AngularSPA-RequireJS\RestService\bin\Newtonsoft.Json.dll
+C:\Users\kamranyaseen\Desktop\AngularSPA-RequireJS\RestService\bin\System.Net.Http.Formatting.dll
+C:\Users\kamranyaseen\Desktop\AngularSPA-RequireJS\RestService\bin\System.Web.Cors.dll
+C:\Users\kamranyaseen\Desktop\AngularSPA-RequireJS\RestService\bin\System.Web.Http.Cors.dll
+C:\Users\kamranyaseen\Desktop\AngularSPA-RequireJS\RestService\bin\System.Web.Http.dll
+C:\Users\kamranyaseen\Desktop\AngularSPA-RequireJS\RestService\bin\System.Web.Http.WebHost.dll
+C:\Users\kamranyaseen\Desktop\AngularSPA-RequireJS\RestService\bin\EntityFramework.xml
+C:\Users\kamranyaseen\Desktop\AngularSPA-RequireJS\RestService\bin\EntityFramework.SqlServer.xml
+C:\Users\kamranyaseen\Desktop\AngularSPA-RequireJS\RestService\bin\Newtonsoft.Json.xml
+C:\Users\kamranyaseen\Desktop\AngularSPA-RequireJS\RestService\bin\System.Net.Http.Formatting.xml
+C:\Users\kamranyaseen\Desktop\AngularSPA-RequireJS\RestService\bin\System.Web.Http.xml
+C:\Users\kamranyaseen\Desktop\AngularSPA-RequireJS\RestService\bin\System.Web.Http.Cors.xml
+C:\Users\kamranyaseen\Desktop\AngularSPA-RequireJS\RestService\bin\System.Web.Http.WebHost.xml
+C:\Users\kamranyaseen\Desktop\AngularSPA-RequireJS\RestService\obj\Debug\RestService.csprojResolveAssemblyReference.cache
+C:\Users\kamranyaseen\Desktop\AngularSPA-RequireJS\RestService\obj\Debug\MobileService.Migrations.initial.resources
+C:\Users\kamranyaseen\Desktop\AngularSPA-RequireJS\RestService\obj\Debug\RestService.csproj.GenerateResource.Cache
+C:\Users\kamranyaseen\Desktop\AngularSPA-RequireJS\RestService\obj\Debug\MobileService.dll
+C:\Users\kamranyaseen\Desktop\AngularSPA-RequireJS\RestService\obj\Debug\MobileService.pdb
